@@ -1,0 +1,24 @@
+{
+  "name": "html5up-dimension",
+  "version": "1.0.0",
+  "description": "Version 1.o",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Krish",
+    "Shah",
+    "Krish"
+  ],
+  "author": "Krish Shah",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krish-shahh/test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/krish-shahh/test/issues"
+  },
+  "homepage": "https://github.com/krish-shahh/test#readme"
+}
